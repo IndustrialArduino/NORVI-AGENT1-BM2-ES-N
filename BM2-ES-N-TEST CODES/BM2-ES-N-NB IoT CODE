@@ -1,6 +1,8 @@
 #define RX0 4
 #define TX0 5
 
+#define RES  19
+
 void setup() {
 // initialize both serial ports:
 Serial.begin(9600);
